@@ -17,4 +17,4 @@ MemETH is a social media for meme creators. It allows meme creators to share gre
 | [Murat Ozatakan](https://twitter.com/OzatakanMurat)   | Frontend        |
 | [Ediz Züm](https://github.com/edizzum)                | Full Stack      |
 | [Ömer Akıl](https://twitter.com/0xPallex)             | Smart Contracts |
-| [Gizem Nur Tabak]                                     | Designer        |
+| Gizem Nur Tabak                                       | Designer        |
