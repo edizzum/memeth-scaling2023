@@ -1,6 +1,6 @@
 # MemETH
 
-MemETH is a social media platform for [ETHGlobal Scaling 2023 Hackathon](https://ethglobal.com/events/scaling2023).
+MemETH is a social media platform #buidl for [ETHGlobal Scaling 2023 Hackathon](https://ethglobal.com/events/scaling2023).
 
 ### Project description
 
